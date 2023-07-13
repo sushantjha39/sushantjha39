@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Shivmohan 👋</h1>
+<h1 align="center"> Hey, I'm Sushant 👋</h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DevShivmohan&label=Profile+Views" />
@@ -20,14 +20,12 @@
 <h3 align="left">Languages and Tools:</h3>
 
 - Java
-- Spring boot
-- MySQL
-- SQLite
-- Git
-- Microservices
-- Data structure
-- Algorithm
-- Docker
+- Selenium
+- API Testing
+- Cucumber BDD framework
+- Appium
+- Data driven testing
+  
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=DevShivmohan" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=DevShivmohan" height="150" alt="languages graph"  />
