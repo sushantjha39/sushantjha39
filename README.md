@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sushant-jha-88a818239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivmohan" height="30" width="40" /></a>
-<a href="https://hub.docker.com/u/sushantjha38" target="blank"><img align="center" src="https://github.com/sushantjha38/sushantjha38/blob/main/docker.svg" alt="shivmohan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sushant-jha-88a818239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant" height="30" width="40" /></a>
+<a href="https://hub.docker.com/u/sushantjha38" target="blank"><img align="center" src="https://github.com/sushantjha38/sushantjha38/blob/main/docker.svg" alt="sushant" height="30" width="40" /></a>
 </p>
 
 
